@@ -7,7 +7,7 @@ Runs on an Atmega8 micro chip.
 
 https://www.instructables.com/USB-SNES-Controller/  
 
-![Screenshot](https://github.com/timeblade0/snes_controller_to_usb/blob/main/DSC03656.JPG)
+![Screenshot](https://github.com/timeblade0/snes_controller_to_usb/blob/main/5.JPG)
 
 Credit:  
 ------------------------------------  
