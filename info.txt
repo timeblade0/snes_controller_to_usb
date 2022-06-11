@@ -1,0 +1,26 @@
+Descrition:
+convert a NES or SNES controller to USB
+
+Pros:
+works great on pc
+circuits built into controller
+drivers built in to xp
+
+
+Cons:
+button mapping is very wrong on a ps3, including no ps3 start button
+
+Improvements to Make:
+remap to make it work on a ps3
+
+Notes:
+NES and SNES controllers are very similar. Both have data, latch, and clock. 1 circuit can do either one.
+
+Credit:
+http://www.raphnet.net/electronique/electronique_en.php
+
+Resources + Cost:
+(S)NES Controller = $5
+Atmega 8 = $4
+Circuits = $3
+		   $12
