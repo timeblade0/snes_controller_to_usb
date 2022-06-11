@@ -20,7 +20,7 @@ Credit:
 http://www.raphnet.net/electronique/electronique_en.php
 
 Resources + Cost:
+------------------
 (S)NES Controller = $5
 Atmega 8 = $4
 Circuits = $3
-		   $12
